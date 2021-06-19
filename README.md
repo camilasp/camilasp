@@ -10,6 +10,8 @@
 
 <p> At this moment, I'm taking a course in Data Science 📊 because it's my main area of interest in tech. 
   
+  
+ <p>At last but not least, my dream is to help make the world a better place to all beings. 🌎🦁🌳🙋‍♀️</p>
   😄
   
  If you would like to contact me:
