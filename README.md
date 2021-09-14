@@ -8,7 +8,8 @@
 <p>I decided to transition to a career in technology and to achieve this goal, I've been studying Systems Analysis and Development at University since the beginning of 2021, as well as doing other courses online.</p>
 
 
-<p> At this moment, I'm taking a course in Data Science 📊 because it's my main area of interest in tech. 
+<p> At the moment, I'm studying Python, SQL, Machine Learning and Java. 
+
   
   
  <p>At last but not least, my dream is to help make the world a better place to all beings. 🌎🦁🌳🙋‍♀️</p>
