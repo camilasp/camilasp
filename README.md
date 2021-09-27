@@ -21,6 +21,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaspolo/)](https://www.linkedin.com/in/camilaspolo/)
 
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=camilasp&show_icons=true&include_all_commits=true&line_height=21&&theme=nightowl">
+
+
 <!--
 **camilasp/camilasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
