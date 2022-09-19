@@ -5,15 +5,12 @@
 <p> I would actually say that I'm curious about a bunch of stuff and this is probably why I'm always studying something new. 🤭</p>
 
 
-<p>I decided to transition to a career in technology and to achieve this goal, I've been studying Systems Analysis and Development at University since the beginning of 2021, as well as doing other courses online.</p>
+<p>I decided to transition to a career in technology and to achieve this goal, I've been studying Systems Analysis and Development at University as well as taking a graduate course in data science.</p>
 
 
-<p> At the moment, I'm studying Python, SQL, Machine Learning and Java. 
+<p> At the moment, I'm studying Python, SQL, Machine Learning and Statistics. 
 
-  
-  
- <p>At last but not least, my dream is to help make the world a better place to all beings. 🌎🦁🌳🙋‍♀️</p>
-  😄
+ 
   
  If you would like to contact me:
 
