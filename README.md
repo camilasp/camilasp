@@ -2,7 +2,7 @@
 
 <p>My name is Camila Polo and I'm very curious about technology.💻 </p>
 
-<p> I would actually say that I'm curious about a bunch of stuff and this is probably why I'm always studying something new. 🤭</p>
+<p> I would actually say that I'm curious about a bunch of stuff and this is probably the reason why I'm always studying something new. 🤭</p>
 
 
 <p>I decided to transition to a career in technology and to achieve this goal, I've been studying Systems Analysis and Development at University as well as taking a graduate course in data science.</p>
