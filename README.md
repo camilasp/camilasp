@@ -2,8 +2,6 @@
 
 <p>My name is Camila Polo and I'm very curious about technology.💻 </p>
 
-<p> At the moment, I'm studying Python, SQL, Scala, Machine Learning and Statistics. 
-
  
   
  If you would like to contact me:
