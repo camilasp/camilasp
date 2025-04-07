@@ -1,7 +1,5 @@
 ### Hi there 🙋‍♀️
 
-<p>My name is Camila Polo and I'm very curious about technology.💻 </p>
-
  
   
  If you would like to contact me:
